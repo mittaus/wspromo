@@ -1,0 +1,16 @@
+appname: ws-rest-cem-dp-createpromovar
+port: 8181
+
+db:
+    #the follows databases were injects for Hygen
+    mysql:
+      - enabled: true
+        host: 10.20.17.103
+        port: 3306
+        username: root
+        password: Peru2013
+        database: ncr_dpc4_09032020
+        nameconn: mysql
+contacts:
+    name: Juan oscco
+    email: experis-juan.oscco@spsa.pe
